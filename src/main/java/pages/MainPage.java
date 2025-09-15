@@ -33,3 +33,4 @@ public class MainPage {
         return driver.findElements(By.className("accordion__panel"));
     }
 }
+
